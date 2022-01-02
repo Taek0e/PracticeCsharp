@@ -1,0 +1,14 @@
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.exe
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.deps.json
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.json
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.runtimeconfig.dev.json
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.dll
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\bin\Debug\netcoreapp3.1\CS.pdb
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.csproj.AssemblyReference.cache
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfoInputs.cache
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.AssemblyInfo.cs
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.csproj.CoreCompileInputs.cache
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.dll
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.pdb
+C:\Users\kimiz\OneDrive\바탕 화면\PracticeCS\CS\obj\Debug\netcoreapp3.1\CS.genruntimeconfig.cache

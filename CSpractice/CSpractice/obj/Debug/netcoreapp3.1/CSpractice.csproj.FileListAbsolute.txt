@@ -1,0 +1,14 @@
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.exe
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.deps.json
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.runtimeconfig.json
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.runtimeconfig.dev.json
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.dll
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\bin\Debug\netcoreapp3.1\CSpractice.pdb
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.csproj.AssemblyReference.cache
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.AssemblyInfoInputs.cache
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.AssemblyInfo.cs
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.csproj.CoreCompileInputs.cache
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.dll
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.pdb
+C:\Users\kimiz\OneDrive\바탕 화면\Git_Repos\PracticeCsharp\CSpractice\CSpractice\obj\Debug\netcoreapp3.1\CSpractice.genruntimeconfig.cache

@@ -6,8 +6,7 @@ namespace CSpractice
 {
     class Program
     {
-        
-
+        // 마우스 왼쪽 클릭 실행 기능
         //if (Input.GetMouseButtonDown(0))  
         //{
         //    Vector2 mousePos = Input.mousePosition;
@@ -25,7 +24,5 @@ namespace CSpractice
             
         //    transform.Translate(-dirVec);
         //}
-
-
 }
 }

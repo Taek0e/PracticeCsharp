@@ -6,6 +6,8 @@ namespace CSpractice
 {
     class Program
     {
+
+
         //        유니티 꿀팁상식 : Vector3.right와 transform.right는 다르다.
         //Vector3는 월드를 기준으로 절대적인 오른쪽을 가르키고,
         //transform은 오브젝트를 기준으로 오른쪽을 가르킨다.
@@ -31,5 +33,7 @@ namespace CSpractice
         //    }
         //    Debug.Log("Down");
         //}
+
+
     }
 }

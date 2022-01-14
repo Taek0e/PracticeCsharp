@@ -6,16 +6,20 @@ namespace CSpractice
 {
     class Program
     {
-        //Matrix4x4 matrix = transform.localToWorldMatrix;
-        //// localToWorldMatrix를 저장하겠다. 
-        //// localToWorldMatrix값 == TRS 값
+        //Debug.Log(boxRigidbody.velocity);
 
-        //Debug.Log("=== Extraction Matrix ===");
-        //for (int i = 0; i< 4; i++)
+        //if (Input.GetKeyDown(KeyCode.A))
         //{
-        //    Debug.Log(matrix.GetRow(i));
-        //    // Column(열) , Row(행)
+        //    boxRigidbody.AddForce(transform.right* movePower, ForceMode.Impulse);
+
+        //    boxRigidbody.AddForce(transform.right* movePower / Time.fixedDeltaTime, ForceMode.Force);
         //}
+        //else if (Input.GetKey(KeyCode.S))
+        //    boxRigidbody.AddForce(transform.right* movePower, ForceMode.Force);
+        //else if (Input.GetKeyDown(KeyCode.D))
+        //    boxRigidbody.AddForce(transform.right* movePower, ForceMode.VelocityChange);
+        //else if (Input.GetKey(KeyCode.F))
+        //    boxRigidbody.AddForce(transform.right* movePower, ForceMode.Acceleration);
 
 }
 }

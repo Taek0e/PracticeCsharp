@@ -4,18 +4,35 @@ using System.Collections.Generic;
 
 namespace PracticeCS
 {
+    class Graph
+    {
+        int[,] adj = new int[6, 6]
+        {
+            { 0, 1, 0, 1, 0, 0 },
+            { 1, 0, 1, 1, 0, 0 },
+            { 0, 1, 0, 0, 0, 0 },
+            { 1, 1, 0, 0, 1, 0 },
+            { 0, 0, 0, 1, 0, 1 },
+            { 0, 0, 0, 0, 1, 0 },
+        };
+
+        List<int>[] adj2 = new List<int>[]
+        {
+            new List<int>() { 1, 3},
+            new List<int>() { 0, 2, 3 },
+            new List<int>() { 1 },
+            new List<int>() { 0, 1, 4 },
+            new List<int>() { 3, 5 },
+            new List<int>() { 4 },
+        };
+        
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Stack<int> stack = new Stack<int>();
-
-            Queue<int> queue = new Queue<int>();
-            queue.Enqueue(101);
-            queue.Enqueue(102);
-
-            int data = queue.Dequeue();
-            Console.WriteLine(data);
+           
         }
     }
 }

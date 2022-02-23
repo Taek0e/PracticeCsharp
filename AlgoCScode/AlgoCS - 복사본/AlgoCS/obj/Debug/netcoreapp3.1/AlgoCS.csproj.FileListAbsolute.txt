@@ -1,0 +1,14 @@
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.exe
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.deps.json
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.runtimeconfig.json
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.runtimeconfig.dev.json
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.dll
+C:\Practice_CS\AlgoCS\AlgoCS\bin\Debug\netcoreapp3.1\AlgoCS.pdb
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.csproj.AssemblyReference.cache
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.AssemblyInfoInputs.cache
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.AssemblyInfo.cs
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.csproj.CoreCompileInputs.cache
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.dll
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.pdb
+C:\Practice_CS\AlgoCS\AlgoCS\obj\Debug\netcoreapp3.1\AlgoCS.genruntimeconfig.cache
